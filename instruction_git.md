@@ -40,3 +40,9 @@
 ```sh
 git checkout <имя_ветки>
 ```
+
+## ДЗ
+# Command Merge
+```sh
+    git merge <branch_name>
+```
