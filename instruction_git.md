@@ -13,3 +13,8 @@
 
 ## Картинки в MarkDown
 ![1](https://i6.imageban.ru/out/2023/03/07/59273883d47003bf67680317d03f97a3.jpg, "Добер")
+
+# Command Delete branch -d
+```sh
+git branch -d <branch_name>
+```
