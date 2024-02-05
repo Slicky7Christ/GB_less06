@@ -38,9 +38,5 @@
 
 # Создание конфликта и решение
 ```sh
-<<<<<<< HEAD
-git checkout <branch_name>
-=======
 git checkout <имя_ветки>
->>>>>>> branch_command
 ```
