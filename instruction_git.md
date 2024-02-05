@@ -39,17 +39,11 @@
 # Создание конфликта и решение
 ```sh
 git checkout <имя_ветки>
-<<<<<<< HEAD
-```
-=======
-<<<<<<< HEAD
-
 ```
 
 # Command Delete branch -d
 ```sh
 git branch -d <branch_name>
-=======
 ```
 
 ## ДЗ
@@ -57,5 +51,3 @@ git branch -d <branch_name>
 ```sh
     git merge <имя_ветки>
 ```
->>>>>>> br_merge
->>>>>>> seminar2
